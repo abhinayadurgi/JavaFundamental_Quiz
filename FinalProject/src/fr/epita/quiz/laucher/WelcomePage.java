@@ -14,6 +14,7 @@ import fr.epita.quiz.userpages.TeacherDisplay;
  * First Display page 
  * Contains the main method
  * @author Durgi
+ * 
  *
  */
 public class WelcomePage {
